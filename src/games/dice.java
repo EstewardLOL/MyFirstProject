@@ -32,6 +32,7 @@ public class dice {
             }
         } else {
             System.out.println("Please enter a valid number!");
+            sc.close();
             return; // why continue if not valid
         }
         sc.close();

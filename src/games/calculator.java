@@ -10,7 +10,6 @@ public class calculator {
         char operator;
         double result = 0;
         boolean success = true;
-        String days = "1 days left!";
 
         // --- VALIDATE FIRST NUMBER ---
         System.out.print("First Num: ");
@@ -18,6 +17,7 @@ public class calculator {
             num1 = scanner.nextDouble();
         } else {
             System.out.println("Invalid input! Please enter a number.");
+            scanner.close();
             return; // Stops the program early
         }
 
@@ -31,6 +31,7 @@ public class calculator {
             num2 = scanner.nextDouble();
         } else {
             System.out.println("Invalid input! Please enter a number.");
+            scanner.close();
             return; // Stops the program early
         }
 

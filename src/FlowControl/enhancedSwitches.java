@@ -6,7 +6,7 @@ public class enhancedSwitches {
         // Enhanced Switch = replacement to many "else if" statements
 
         // Check if weekend/weekday ; Similar to else if's
-        String day = " ";
+        String day = "Monday";
 
         if (day == null || day.isEmpty() || day.contains(" ")) { // checks for any input; skips if value provided
             System.out.println("Please provide a day.");
@@ -26,7 +26,7 @@ public class enhancedSwitches {
         System.out.println(formattedDay + " is " + typeOfDay);
 
         // Check if Minor/Adult ; Similar to if's
-        int age = 5;
+        Integer age = 5;
 
         switch (age) { // if
             case Integer a when a < 0 -> System.out.println("Not borned yet"); // if
