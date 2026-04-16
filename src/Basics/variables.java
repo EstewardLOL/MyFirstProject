@@ -1,6 +1,8 @@
+package Basics;
+
 public class variables {
 
-    static int x = 3; // CLASS, outside all methods; in the street
+    static int x = 3; // CLASS, outside all Methods.methods; in the street
 
     public static void main(String[] args) { //Magic word to run the code!
         /*
@@ -21,7 +23,7 @@ public class variables {
 
         // VARIABLE SCOPE - where a var can be accessed
         // LOCAL - var declared inside a method = local; inside their houses
-        // CLASS - all methods can see the variable; it's like in the street
+        // CLASS - all Methods.methods can see the variable; it's like in the street
 
         doSomething();
     }

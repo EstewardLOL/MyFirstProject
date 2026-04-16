@@ -1,3 +1,5 @@
+package Basics;
+
 import java.util.Scanner;
 
 public class mathClass {
@@ -27,7 +29,7 @@ public class mathClass {
         volume = (4.0  / 3.0) * Math.PI * Math.pow(radius, 3);
 
         System.out.printf("Circumference: %.2f", circumference);
-        System.out.printf("\nArea: %.2f", area);  // printf : use %.[x]f and , instead of plus, x meaning how many numbers to display
+        System.out.printf("\nArea: %.2f", area);  // Basics.printf : use %.[x]f and , instead of plus, x meaning how many numbers to display
         System.out.printf("\nVolume: %.2f", volume);
 
         scanner.close();

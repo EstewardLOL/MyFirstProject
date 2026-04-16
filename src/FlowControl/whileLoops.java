@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package FlowControl;
+
 import java.util.Scanner;
 
 public class whileLoops {

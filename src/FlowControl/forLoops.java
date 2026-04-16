@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package FlowControl;
 
 public class forLoops {
     public static void main(String[] args) {

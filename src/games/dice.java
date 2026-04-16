@@ -4,7 +4,7 @@ import java.util.*;
 
 public class dice {
 
-    static int roll; // so all methods can access
+    static int roll; // so all Methods.methods can access
 
     public static void main(String[] args) {
 

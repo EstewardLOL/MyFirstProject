@@ -50,9 +50,9 @@ public class QuizGame {
 
         scanner.close();
 
-        // QUESTIONS array[]
-        // OPTIONS array[][]
-        // DECLARE variables
+        // QUESTIONS DataStructures.array[]
+        // OPTIONS DataStructures.array[][]
+        // DECLARE Basics.variables
         // Welcome!
         // Questions: Loops
         //      Options

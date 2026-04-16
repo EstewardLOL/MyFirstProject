@@ -1,9 +1,11 @@
+package OOP;
+
 public class OOP {
     public static void main(String[] args) {
 
 
         // Object = Entity that holds data (attributes)
-        //          and can perform actions (methods)
+        //          and can perform actions (Methods.methods)
         //          It's a reference data type
 
         Car car = new Car();

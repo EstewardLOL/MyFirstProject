@@ -1,7 +1,9 @@
+package Basics;
+
 public class printf {
     public static void main(String[] args) {
 
-        /* printf() = print format/changes the format of the output
+        /* Basics.printf() = print format/changes the format of the output
         %.[x]f - depending on how many decimal places you want to use replace x with a number
 
         [width]

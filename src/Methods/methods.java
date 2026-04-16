@@ -1,9 +1,11 @@
+package Methods;
+
 public class methods {
     public static void main(String[] args) {
 
         // method = a block of reusable code that is executed when called using ()
         /*
-        methods cant determine variables in other methods! eg., Putting string name = "e"; and calling it in another method.
+        Methods.methods cant determine Basics.variables in other Methods.methods! eg., Putting string name = "e"; and calling it in another method.
         main = is your house | methodName = is your neighbor ; you cant see eachother!
         1. static to static calls only!
          */

@@ -1,4 +1,4 @@
-import java.security.SecureRandom;
+package DataStructures;
 
 public class TwoDimensionalArray {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class TwoDimensionalArray {
         String[] vegetables = {"Lettuce", "Tomato", "Carrot"};
 
 
-        // This is an 2D Array's; It's an array made up of arrays
+        // This is an 2D Array's; It's an DataStructures.array made up of arrays
         String[][] groceries = {fruits, meat, vegetables};
 
         groceries[0][0] = "Pineapple"; // Replace row 0 and column 0 with Pineapple

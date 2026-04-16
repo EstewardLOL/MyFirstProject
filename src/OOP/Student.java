@@ -1,6 +1,8 @@
+package OOP;
+
 public class Student {
 
-    // Attributes of a Student
+    // Attributes of a OOP.Student
     // CONSTRUCTOR LESSON!
 
     String name;
@@ -9,7 +11,7 @@ public class Student {
     String idk;
 
 
-    // Called when Student() |  Constructor
+    // Called when OOP.Student() |  OOP.Constructor
     Student(String name, int age, int grade, String idk){
         this.name = name; // this refers to the object we're working with/constructing (eg. student1)
         this.age = age;
@@ -17,7 +19,7 @@ public class Student {
         this.idk = idk;
     }
 
-    // Example of an Overloaded Constructor: Same name, different parameters
+    // Example of an Overloaded OOP.Constructor: Same name, different parameters
     Student(){ // If attributes are given, default to these values.
         this.name = "Guest";
         this.age = 0;

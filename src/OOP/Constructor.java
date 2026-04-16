@@ -1,7 +1,9 @@
+package OOP;
+
 public class Constructor {
     public static void main(String[] args) {
 
-        // Constructor - A special method to initialize objects
+        // OOP.Constructor - A special method to initialize objects
         //               You can pass arguments to a constructor
         //               and set up initial values
 
