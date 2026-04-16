@@ -29,6 +29,7 @@ public class stringMethods {
         System.out.println(password.toUpperCase()); // UPPERCASES ALL LETTERS AT VAR: PASSWORD
         System.out.println(password.toLowerCase()); // lowercases all letters at var: password
         System.out.println("The letter at 0 is: " + password.charAt(0)); // Gets character at Index 0
+        System.out.println(lenghtofname); // Length of the string
 
         System.out.println("\n" + spaces.trim()); // Removes white spaces
         System.out.println(spaces.isEmpty()); // Check if var.spaces is empty

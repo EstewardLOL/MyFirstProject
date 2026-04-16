@@ -9,9 +9,6 @@ public class logicalOperators {
         // || OR : only one condition can be true
         // ! NOT : opposite
 
-        // Username Checker: 4-12 Chars ; No contain spaces or _
-        boolean isValid = false;
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a username: ");
@@ -21,7 +18,6 @@ public class logicalOperators {
             System.out.println("Username must be 4-20 characters long");
         } else {
             System.out.println("Welcome! " + user);
-            isValid = true;
         }
 
         scanner.close();
