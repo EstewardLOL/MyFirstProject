@@ -1,3 +1,4 @@
+package Inheritance;
 public class ToString {
     public static void main(String[] args) {
         
