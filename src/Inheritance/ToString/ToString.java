@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.ToString;
 public class ToString {
     public static void main(String[] args) {
         

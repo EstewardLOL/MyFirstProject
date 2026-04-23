@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Override;
 public class OverrideAnimal {
 
     void move(){

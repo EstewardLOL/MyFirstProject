@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.ToString;
 public class ToStringCar {
 
     String make;

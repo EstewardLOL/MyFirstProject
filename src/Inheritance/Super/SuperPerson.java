@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Super;
 public class SuperPerson {
         
         String first;

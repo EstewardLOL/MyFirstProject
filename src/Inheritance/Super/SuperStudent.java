@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Super;
 public class SuperStudent extends SuperPerson {
     
     // Since this class inherits from the SuperPerson class, This class already has the first and last attributes and the introduce method.

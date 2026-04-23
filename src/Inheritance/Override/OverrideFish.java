@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Override;
 public class OverrideFish extends OverrideAnimal{
 
     // Child of OverrideAnimal, so it inherits all of OverrideAnimal's everything

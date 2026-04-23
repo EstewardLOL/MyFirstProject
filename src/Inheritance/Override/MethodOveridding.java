@@ -1,4 +1,5 @@
-package Inheritance;
+package Inheritance.Override;
+
 public class MethodOveridding {
 
     @SuppressWarnings("unused")
